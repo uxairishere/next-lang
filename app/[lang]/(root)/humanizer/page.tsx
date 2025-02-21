@@ -1,10 +1,16 @@
 import { Languages } from '@/constants/types';
 import { FaCheckCircle } from 'react-icons/fa';
 import { getDictionary } from '../../dictionaries';
+import { Metadata } from 'next';
 
 type Props = {
     params: Promise<{ lang: Languages }>
 }
+
+export const metadata: Metadata = {
+    title: 'Humanizer',
+    description: 'Humanizer page of next 15 internationalization',
+};
 
 const HumanizerPage = async ({ params }: Props) => {
     const lang = (await params).lang;
@@ -23,7 +29,7 @@ const HumanizerPage = async ({ params }: Props) => {
 
     return (
         <div className="p-6 text-gray-800 w-fit mx-auto">
-            <h1 className="text-5xl font-bold mb-4 bg-clip-text text-transparent bg-gradient-to-r from-purple-400 via-purple-500 to-purple-600">
+            <h1 className="text-3xl md:text-5xl font-bold mb-4 bg-clip-text text-transparent bg-gradient-to-r from-purple-400 via-purple-500 to-purple-600">
                 {title}
             </h1>
             <p className="mb-6 text-2xl">{description}</p>
