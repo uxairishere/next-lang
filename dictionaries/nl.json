@@ -1,0 +1,48 @@
+{
+  "pages": {
+    "home": {
+      "name": "Home",
+      "title": "Welkom bij de Toekomst van AI",
+      "description": "Ontdek het ultieme AI-platform voor al uw behoeften",
+      "points": [
+        "Geavanceerde AI-technologie",
+        "Gebruiksvriendelijke interface",
+        "Uitgebreide oplossingen",
+        "24/7 ondersteuning"
+      ]
+    },
+    "rewrite": {
+      "name": "Herschrijven",
+      "title": "Revamp Uw Tekst met AI Magie",
+      "description": "Verbeter uw tekst met AI-gestuurde herschrijving",
+      "points": [
+        "Leesbaarheid verbeteren",
+        "Oorspronkelijke betekenis behouden",
+        "Snel en efficiënt",
+        "Aanpasbare opties"
+      ]
+    },
+    "humanizer": {
+      "name": "Humanizer",
+      "title": "Maak Uw Inhoud Naadloos Menselijk",
+      "description": "Maak uw inhoud menselijker met AI",
+      "points": [
+        "Natuurlijke taalverwerking",
+        "Boeiende inhoud",
+        "Persoonlijke toon",
+        "Eenvoudige integratie"
+      ]
+    },
+    "research": {
+      "name": "Onderzoek",
+      "title": "Ontgrendel Diepere Inzichten met AI",
+      "description": "AI-gedreven onderzoekstools voor diepere inzichten",
+      "points": [
+        "Geavanceerde data-analyse",
+        "Nauwkeurige resultaten",
+        "Tijdbesparend",
+        "Gebruiksvriendelijke tools"
+      ]
+    }
+  }
+}

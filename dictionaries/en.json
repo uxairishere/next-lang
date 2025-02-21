@@ -1,0 +1,48 @@
+{
+  "pages": {
+    "home": {
+      "name": "Home",
+      "title": "Welcome to the Future of AI",
+      "description": "Discover the ultimate AI platform for all your needs",
+      "points": [
+        "Cutting-edge AI technology",
+        "User-friendly interface",
+        "Comprehensive solutions",
+        "24/7 support"
+      ]
+    },
+    "rewrite": {
+      "name": "Rewrite",
+      "title": "Revamp Your Text with AI Magic",
+      "description": "Enhance your text with AI-powered rewriting",
+      "points": [
+        "Improve readability",
+        "Maintain original meaning",
+        "Quick and efficient",
+        "Customizable options"
+      ]
+    },
+    "humanizer": {
+      "name": "Humanizer",
+      "title": "Humanize Your Content Seamlessly",
+      "description": "Make your content more human with AI",
+      "points": [
+        "Natural language processing",
+        "Engaging content",
+        "Personalized tone",
+        "Easy integration"
+      ]
+    },
+    "research": {
+      "name": "Research",
+      "title": "Unlock Deeper Insights with AI",
+      "description": "AI-driven research tools for deeper insights",
+      "points": [
+        "Advanced data analysis",
+        "Accurate results",
+        "Time-saving",
+        "User-friendly tools"
+      ]
+    }
+  }
+}

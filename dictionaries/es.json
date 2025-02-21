@@ -1,0 +1,48 @@
+{
+    "pages": {
+        "home": {
+            "name": "Inicio",
+            "title": "Bienvenido al Futuro de la IA",
+            "description": "Descubre la plataforma de IA definitiva para todas tus necesidades",
+            "points": [
+                "Tecnología de IA de vanguardia",
+                "Interfaz fácil de usar",
+                "Soluciones integrales",
+                "Soporte 24/7"
+            ]
+        },
+        "rewrite": {
+            "name": "Reescribir",
+            "title": "Revitaliza tu Texto con Magia de IA",
+            "description": "Mejora tu texto con reescritura impulsada por IA",
+            "points": [
+                "Mejorar la legibilidad",
+                "Mantener el significado original",
+                "Rápido y eficiente",
+                "Opciones personalizables"
+            ]
+        },
+        "humanizer": {
+            "name": "Humanizador",
+            "title": "Humaniza tu Contenido Sin Esfuerzo",
+            "description": "Haz que tu contenido sea más humano con IA",
+            "points": [
+                "Procesamiento de lenguaje natural",
+                "Contenido atractivo",
+                "Tono personalizado",
+                "Fácil integración"
+            ]
+        },
+        "research": {
+            "name": "Investigación",
+            "title": "Desbloquea Ideas Más Profundas con IA",
+            "description": "Herramientas de investigación impulsadas por IA para ideas más profundas",
+            "points": [
+                "Análisis de datos avanzado",
+                "Resultados precisos",
+                "Ahorro de tiempo",
+                "Herramientas fáciles de usar"
+            ]
+        }
+    }
+}
