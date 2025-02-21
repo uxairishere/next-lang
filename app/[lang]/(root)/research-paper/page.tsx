@@ -7,10 +7,16 @@ type Props = {
     params: Promise<{ lang: Languages }>
 }
 
-export const metadata: Metadata = {
-    title: 'Research Paper',
-    description: 'Research Paper page of next 15 internationalization',
-};
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+    const lang = (await params).lang;
+    const dict = await getDictionary(lang)
+    const { metaTitle, metaDescription } = dict.pages.research;
+    
+    return {
+        title: metaTitle,
+        description: metaDescription,
+    };
+}
 
 const ResearchPage = async ({ params }: Props) => {
     const lang = (await params).lang;

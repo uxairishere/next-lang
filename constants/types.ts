@@ -3,6 +3,8 @@ type Page = {
     title: string;
     description: string;
     points: string[];
+    metaTitle: string;
+    metaDescription: string;
 };
 
 type Dictionary<T extends Record<string, Page>> = {

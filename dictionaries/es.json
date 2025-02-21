@@ -9,7 +9,9 @@
                 "Interfaz fácil de usar",
                 "Soluciones integrales",
                 "Soporte 24/7"
-            ]
+            ],
+            "metaTitle": "Inicio",
+            "metaDescription": "Página de Inicio de Próximos 15 Internacionalización"
         },
         "rewrite": {
             "name": "Reescribir",
@@ -20,7 +22,9 @@
                 "Mantener el significado original",
                 "Rápido y eficiente",
                 "Opciones personalizables"
-            ]
+            ],
+            "metaTitle": "Reescribir",
+            "metaDescription": "Página de Reescribir de Próximos 15 Internacionalización"
         },
         "humanizer": {
             "name": "Humanizador",
@@ -31,7 +35,9 @@
                 "Contenido atractivo",
                 "Tono personalizado",
                 "Fácil integración"
-            ]
+            ],
+            "metaTitle": "Humanizador",
+            "metaDescription": "Página de Humanizador de Próximos 15 Internacionalización"
         },
         "research": {
             "name": "Investigación",
@@ -42,7 +48,9 @@
                 "Resultados precisos",
                 "Ahorro de tiempo",
                 "Herramientas fáciles de usar"
-            ]
+            ],
+            "metaTitle": "Artículo de Investigación",
+            "metaDescription": "Página de Artículo de Investigación de Próximos 15 Internacionalización"
         }
     }
 }

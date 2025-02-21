@@ -9,7 +9,9 @@
         "Gebruiksvriendelijke interface",
         "Uitgebreide oplossingen",
         "24/7 ondersteuning"
-      ]
+      ],
+      "metaTitle": "Home",
+      "metaDescription": "Home pagina van Volgende 15 internationalisering"
     },
     "rewrite": {
       "name": "Herschrijven",
@@ -20,7 +22,9 @@
         "Oorspronkelijke betekenis behouden",
         "Snel en efficiënt",
         "Aanpasbare opties"
-      ]
+      ],
+      "metaTitle": "Herschrijven",
+      "metaDescription": "Herschrijven pagina van Volgende 15 internationalisering"
     },
     "humanizer": {
       "name": "Humanizer",
@@ -31,7 +35,9 @@
         "Boeiende inhoud",
         "Persoonlijke toon",
         "Eenvoudige integratie"
-      ]
+      ],
+      "metaTitle": "Humanizer",
+      "metaDescription": "Humanizer pagina van Volgende 15 internationalisering"
     },
     "research": {
       "name": "Onderzoek",
@@ -42,7 +48,9 @@
         "Nauwkeurige resultaten",
         "Tijdbesparend",
         "Gebruiksvriendelijke tools"
-      ]
+      ],
+      "metaTitle": "Onderzoeksrapport",
+      "metaDescription": "Onderzoeksrapport pagina van Volgende 15 internationalisering"
     }
   }
 }

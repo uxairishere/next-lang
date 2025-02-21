@@ -9,7 +9,9 @@
         "User-friendly interface",
         "Comprehensive solutions",
         "24/7 support"
-      ]
+      ],
+      "metaTitle": "Home",
+      "metaDescription": "Home Paper page of next 15 internationalization"
     },
     "rewrite": {
       "name": "Rewrite",
@@ -20,7 +22,9 @@
         "Maintain original meaning",
         "Quick and efficient",
         "Customizable options"
-      ]
+      ],
+      "metaTitle": "Rewrite",
+      "metaDescription": "Rewrite Paper page of next 15 internationalization"
     },
     "humanizer": {
       "name": "Humanizer",
@@ -31,7 +35,9 @@
         "Engaging content",
         "Personalized tone",
         "Easy integration"
-      ]
+      ],
+      "metaTitle": "Humanizer",
+      "metaDescription": "Humanizer Paper page of next 15 internationalization"
     },
     "research": {
       "name": "Research",
@@ -42,7 +48,9 @@
         "Accurate results",
         "Time-saving",
         "User-friendly tools"
-      ]
+      ],
+      "metaTitle": "Research Paper",
+      "metaDescription": "Research Paper page of next 15 internationalization"
     }
   }
 }
