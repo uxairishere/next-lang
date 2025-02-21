@@ -22,7 +22,7 @@ const Page = async ({ params }: Props) => {
     }
 
     return (
-        <div className="p-6 text-gray-800 ">
+        <div className="p-6 text-gray-800 w-fit mx-auto">
             <h1 className="text-5xl font-bold mb-4 bg-clip-text text-transparent bg-gradient-to-r from-purple-400 via-purple-500 to-purple-600">
                 {title}
             </h1>
